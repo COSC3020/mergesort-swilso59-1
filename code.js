@@ -48,5 +48,3 @@ function mergesort(array) {
     } 
     return array;
 }
-
-console.log(mergesort([4, 3, 8, 5, 9, 2, 5, 1, 7, 10, 8, 0, 3]));
