@@ -21,7 +21,7 @@ markdown file.
 - The inner loop will start n/2 times and decrease as the size of the subarray increases. This will lead us to $n$ iterations 
   total. 
 - The mergre function swaps the elements and merges them into a sorted array in the worst case would run $n$ times.
-- This gives us the time complexity of $T\left(n\right) = O\left(n^{2}\log_{2}\left(n\right)\right)$
+- This gives us the time complexity of $T\left(n\right) \in O\left(n^{2}\log_{2}\left(n\right)\right)$
 
 I reviewed my repository from last semester and went over the Runtime analysis with the TA during Lab. 
 
